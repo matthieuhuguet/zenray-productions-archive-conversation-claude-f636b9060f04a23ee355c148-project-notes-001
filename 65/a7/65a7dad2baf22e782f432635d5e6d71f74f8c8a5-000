@@ -3,3 +3,4 @@
 Standing rules of this project, one line each, loaded automatically at session start. Full history and context: FEEDBACK.md in this folder. A rule that changes gets a new line citing the old one. (20 October 2026)
 
 - Règle du chantier sharingan : chaque concept du skill zenray-sharingan tient en un paragraphe, trois au plus. Matthieu valide chaque concept avant toute extension du texte. (20 October 2026) <!-- rule:95d1f48e106d -->
+- Correction de la règle sharingan-rule-01 (21 October 2026). Matthieu : « je te demandais juste 1 à 3 paragraphes à indexer dans claude-md-global et la création du skill zenray-sharingan avec des exemples mais pas trop long, fini proprement, tu peux aussi delete si ce n'est pas propre ». Livrable : trois paragraphes de doctrine dans rules/SkillsAndMemory1.md et un skill court avec exemples, tenus à ce format. (21 October 2026) <!-- rule:496074657e3c -->

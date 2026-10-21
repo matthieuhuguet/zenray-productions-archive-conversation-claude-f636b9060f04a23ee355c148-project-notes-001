@@ -8996,3 +8996,45 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e404b8fe-5771-41e1-b7bb-5f6111652bf6.jsonl. (21 October 2026, 00:49:17 +0200)
 
 > Compris : une doctrine courte et un skill court avec exemples, rien de plus. Je ne relance aucun agent. Je relis d'abord ce que je dois citer (état actuel de `zenray-uv`, règles de Matthieu sur UV et height, mémoire LUT), puis je réécris. (21 October 2026, 00:49:17 +0200)
+
+## 21 October 2026, 12:05:21 +0200 : Standing rule
+
+<!-- feedback-event:1e0ee59cc742d736360e622465317a298f0b38479e70d840ee130641c31f7a38 (21 October 2026, 12:05:21 +0200) -->
+- Project: conversation-claude-f636b9060f04a23ee355c148; kind: rule. (21 October 2026, 12:05:21 +0200)
+
+> Correction de la règle sharingan-rule-01 (21 October 2026). Matthieu : « je te demandais juste 1 à 3 paragraphes à indexer dans claude-md-global et la création du skill zenray-sharingan avec des exemples mais pas trop long, fini proprement, tu peux aussi delete si ce n'est pas propre ». Livrable : trois paragraphes de doctrine dans rules/SkillsAndMemory1.md et un skill court avec exemples, tenus à ce format. (21 October 2026, 12:05:21 +0200)
+
+## 21 October 2026, 12:05:21 +0200 : Iteration
+
+<!-- feedback-event:a8e5017ff5043a1d59b6f1e0fb56c699c5c01fab55c501df8ecfd8b8f3ff8af6 (21 October 2026, 12:05:21 +0200) -->
+- Project: conversation-claude-f636b9060f04a23ee355c148; kind: iteration. (21 October 2026, 12:05:21 +0200)
+- Source: checkpoint:claude:e404b8fe-5771-41e1-b7bb-5f6111652bf6. (21 October 2026, 12:05:21 +0200)
+
+> Skill zenray-sharingan réécrit en 28 lignes avec trois exemples (UV, height, LUT) ; doctrine de trois paragraphes dans rules/SkillsAndMemory1.md ; phrase de noyau dans CLAUDE.md (65303 octets, miroirs 65530) ; déclencheurs 20 vers 12 ; registre dans claude-md-global ; quatre copies du skill au même SHA-256. Prochain geste : validation de Matthieu. (21 October 2026, 12:05:21 +0200)
+
+## 21 October 2026, 12:06:42 +0200 : Iteration
+
+<!-- feedback-event:c48c1ecb123e5b5cbf40a82771f05e29fdf413d867c6acc312552ce880e2ed54 (21 October 2026, 12:06:42 +0200) -->
+- Project: conversation-claude-f636b9060f04a23ee355c148; kind: iteration. (21 October 2026, 12:06:42 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e404b8fe-5771-41e1-b7bb-5f6111652bf6.jsonl. (21 October 2026, 12:06:42 +0200)
+
+> La doctrine tient en trois paragraphes et le skill en 28 lignes, avec trois exemples. (21 October 2026, 12:06:42 +0200)
+>
+> - Skill : [/Users/zenray/.claude/skills/zenray-sharingan/SKILL.md](/Users/zenray/.claude/skills/zenray-sharingan/SKILL.md) (21 October 2026, 12:06:42 +0200)
+> - Doctrine, section du 21 October 2026 : [/Users/zenray/.claude/rules/SkillsAndMemory1.md](/Users/zenray/.claude/rules/SkillsAndMemory1.md) (21 October 2026, 12:06:42 +0200)
+> - Phrase de noyau, ligne 132 : [/Users/zenray/.claude/CLAUDE.md](/Users/zenray/.claude/CLAUDE.md) (21 October 2026, 12:06:42 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (21 October 2026, 12:06:42 +0200)
+> |---|---|---| (21 October 2026, 12:06:42 +0200)
+> | « 1 à 3 paragraphes à indexer dans claude-md-global » | Oui | Les trois paragraphes sont dans `SkillsAndMemory1.md`, et ton texte y est cité (grammaire corrigée seule). Tapé tel quel dans le routeur, « reproduis ce résultat à l'identique » ouvre ce fichier. | (21 October 2026, 12:06:42 +0200)
+> | « le skill zenray-sharingan avec des exemples, pas trop long » | Oui | 28 lignes au lieu de 10 Ko. Les exemples (UV d'artiste, height, LUT) viennent de tes `Rules.md`, du journal et de la mémoire. | (21 October 2026, 12:06:42 +0200)
+> | « fini proprement, delete si ce n'est pas propre » | Oui | Ancienne version remplacée, 8 mots déclencheurs en double retirés, 4,7 Mo de brouillons des agents arrêtés supprimés. `CLAUDE.md` pèse 65 303 octets sur 65 536. | (21 October 2026, 12:06:42 +0200)
+> | « puis sync /skill-sync » | Oui | Les quatre copies du skill ont la même empreinte. | (21 October 2026, 12:06:42 +0200)
+> | Lecture intégrale des conversations | Non | Arrêtée sur ton ordre. J'ai seulement lu en entier les `Rules.md` de UV et de height. | (21 October 2026, 12:06:42 +0200)
+>
+> Pas touché : le suivi de cette conversation (736 Ko) contient des textes de skills enregistrés par erreur. Le vider ne sert à rien tant que la capture automatique n'est pas corrigée, car elle risquerait de les réimporter. (21 October 2026, 12:06:42 +0200)
+>
+> Une entrée du journal disait à tort que les dossiers de lecture étaient vides. Une entrée de correction la cite. (21 October 2026, 12:06:42 +0200)
+>
+> Reformulation : « Mets 1 à 3 paragraphes de doctrine dans claude-md-global, fais un skill court avec exemples, et supprime ce qui est sale. » (21 October 2026, 12:06:42 +0200)
+> *Indexer* : enregistrer une règle dans le routeur (texte, mots déclencheurs, index) pour qu'elle se charge toute seule. (21 October 2026, 12:06:42 +0200)

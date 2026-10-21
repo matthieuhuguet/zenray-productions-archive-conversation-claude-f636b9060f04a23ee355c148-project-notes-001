@@ -1,23 +1,39 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-10-20T22:52:41.207Z",
+ "scannedAt": "2026-10-21T10:07:00.042Z",
  "conversations": [
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
-   "lines": 7,
+   "lines": 8,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-20T11:51:44.921Z",
-   "last": "2026-10-20T11:56:52.694Z",
+   "last": "2026-10-21T10:05:21.740Z",
    "strength": "weak",
    "conversationId": "claude:e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "provider": "claude",
    "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "title": "CONSIGNER LE SHARINGAN",
-   "updatedAt": "2026-10-20T22:52:11.363Z",
-   "bytes": 5482060,
+   "updatedAt": "2026-10-21T10:06:45.761Z",
+   "bytes": 33539,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
+  },
+  {
+   "projectId": "conversation-claude-f636b9060f04a23ee355c148",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-21T09:58:10.163Z",
+   "last": "2026-10-21T09:58:10.163Z",
+   "strength": "weak",
+   "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
+   "provider": "claude",
+   "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
+   "title": "StudioPhoto Enhancing Assets",
+   "updatedAt": "2026-10-21T10:06:31.057Z",
+   "bytes": 29567435,
+   "boundProject": "studiophoto-matthieu-17-october-2026"
   }
  ]
 }
