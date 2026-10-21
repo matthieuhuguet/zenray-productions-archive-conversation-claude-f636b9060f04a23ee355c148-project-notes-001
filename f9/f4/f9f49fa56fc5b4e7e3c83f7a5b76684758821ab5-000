@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-10-21T14:22:58.447Z",
+ "scannedAt": "2026-10-21T14:33:41.942Z",
  "conversations": [
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
@@ -31,8 +31,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T14:22:19.333Z",
-   "bytes": 38711,
+   "updatedAt": "2026-10-21T14:33:01.323Z",
+   "bytes": 33789228,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   }
  ]
