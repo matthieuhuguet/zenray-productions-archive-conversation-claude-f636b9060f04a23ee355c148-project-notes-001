@@ -1,8 +1,24 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-10-21T18:24:37.282Z",
+ "scannedAt": "2026-10-21T18:43:37.592Z",
  "conversations": [
+  {
+   "projectId": "conversation-claude-f636b9060f04a23ee355c148",
+   "lines": 10,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-21T14:44:53.845Z",
+   "last": "2026-10-21T18:40:56.272Z",
+   "strength": "weak",
+   "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
+   "provider": "claude",
+   "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
+   "title": "UV Methodology (fork)",
+   "updatedAt": "2026-10-21T18:43:37.366Z",
+   "bytes": 364277424,
+   "boundProject": "louisiana-bayou"
+  },
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
    "lines": 8,
@@ -18,22 +34,6 @@
    "updatedAt": "2026-10-21T10:06:45.761Z",
    "bytes": 33539,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
-  },
-  {
-   "projectId": "conversation-claude-f636b9060f04a23ee355c148",
-   "lines": 6,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-21T14:44:53.845Z",
-   "last": "2026-10-21T18:13:53.516Z",
-   "strength": "weak",
-   "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
-   "provider": "claude",
-   "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T18:24:18.772Z",
-   "bytes": 361707419,
-   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
