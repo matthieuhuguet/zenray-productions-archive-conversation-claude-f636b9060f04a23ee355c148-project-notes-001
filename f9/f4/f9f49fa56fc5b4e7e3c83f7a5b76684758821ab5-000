@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-10-22T16:34:53.261Z",
+ "scannedAt": "2026-10-22T16:47:44.519Z",
  "conversations": [
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
@@ -15,8 +15,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T16:34:37.002Z",
-   "bytes": 398430360,
+   "updatedAt": "2026-10-22T16:46:45.359Z",
+   "bytes": 40347,
    "boundProject": "louisiana-bayou"
   },
   {
