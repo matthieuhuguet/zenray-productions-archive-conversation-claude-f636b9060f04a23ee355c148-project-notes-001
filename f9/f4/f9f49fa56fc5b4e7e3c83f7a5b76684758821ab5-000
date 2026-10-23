@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-10-22T22:30:47.593Z",
+ "scannedAt": "2026-10-23T11:24:29.667Z",
  "conversations": [
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
-   "lines": 28,
+   "lines": 29,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-21T14:44:53.845Z",
-   "last": "2026-10-22T16:58:52.420Z",
+   "last": "2026-10-23T11:09:29.698Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T21:40:46.245Z",
-   "bytes": 40555,
+   "title": "zenray uv",
+   "updatedAt": "2026-10-23T11:23:33.797Z",
+   "bytes": 409379618,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -32,7 +32,7 @@
    "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "title": "CONSIGNER LE SHARINGAN",
    "updatedAt": "2026-10-21T10:06:45.761Z",
-   "bytes": 33539,
+   "bytes": 33540,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
   },
   {
@@ -48,7 +48,7 @@
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
    "updatedAt": "2026-10-22T22:30:23.100Z",
-   "bytes": 38258,
+   "bytes": 38259,
    "boundProject": null
   },
   {
@@ -62,9 +62,9 @@
    "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
-   "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T17:14:21.465Z",
-   "bytes": 38528,
+   "title": "studio photos",
+   "updatedAt": "2026-10-23T11:17:19.759Z",
+   "bytes": 38507,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   }
  ]
