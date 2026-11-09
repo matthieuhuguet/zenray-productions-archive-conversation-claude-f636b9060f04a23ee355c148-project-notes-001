@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-claude-f636b9060f04a23ee355c148",
- "scannedAt": "2026-11-09T12:30:51.428Z",
+ "scannedAt": "2026-11-09T18:32:19.976Z",
  "conversations": [
   {
    "projectId": "conversation-claude-f636b9060f04a23ee355c148",
@@ -16,7 +16,7 @@
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "zenray uv",
    "updatedAt": "2026-10-23T13:08:52.408Z",
-   "bytes": 41023,
+   "bytes": 41058,
    "boundProject": "louisiana-bayou"
   },
   {
